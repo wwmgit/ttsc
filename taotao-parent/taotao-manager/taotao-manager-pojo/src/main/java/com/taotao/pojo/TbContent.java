@@ -3,9 +3,6 @@ package com.taotao.pojo;
 import java.util.Date;
 
 public class TbContent {
-    /**
-     * fjdkfj
-     */
     private Long id;
 
     private Long categoryId;
